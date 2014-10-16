@@ -34,3 +34,9 @@ public class upp1 {
     }
     
 }
+
+/*
+Tack!
+Du har glömt att ta ut månad och dag ur personnummer, annars är set bra, både med kod och dokumentation.
+
+*/
