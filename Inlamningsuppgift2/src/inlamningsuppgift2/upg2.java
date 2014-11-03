@@ -39,7 +39,6 @@ public class upg2 {
         String full_name;
         full_name= first_name + " " + family_name +" " + farg_name;
         
-        System.out.println();
     }
 }
 
